@@ -1,1 +1,2 @@
 This is file 1 and it is now modified
+This is comparison lecture
